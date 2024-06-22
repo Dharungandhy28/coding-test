@@ -1,0 +1,23 @@
+.user {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.tab {
+  width: 75%;
+  align-items: center;
+  margin: auto;
+  border-radius: 2px solid black;
+}
+
+.search {
+  width: 25%;
+  margin-right: 15px;
+  align-self: flex-end;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
